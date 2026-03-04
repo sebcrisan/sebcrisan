@@ -7,18 +7,50 @@ I build scalable cloud systems, serverless platforms, and modern web application
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;AWS+Cloud+Architect;React+%2B+TypeScript+Engineer;Serverless+System+Designer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;AWS+Cloud+Architect;React+%2B+TypeScript+Engineer;Serverless+System+Designer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sebcrisan&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SebCrisan?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
+<p align="center">
+  <a href="https://leetcode.com/SebCrisan">
+    <img src="https://leetcard.jacoblin.cool/SebCrisan?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Metrics](github-metrics.svg)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
+
+---
+
+## 🐍 Contribution Snake
+
+![Contribution Snake](./github-contribution-grid-snake.svg)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcrisan&theme=github-compact)
 
 ---
 
 # 🚀 Featured Project
 
-<img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120">
+<img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120" alt="Rentalist logo">
 
 https://www.rentalist.nl
 
@@ -83,31 +115,11 @@ TypeScript
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Metrics](github-metrics.svg)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcrisan&theme=github-compact)
-
----
-
 ## 🏆 Certifications
 
 **Professional Scrum Master I (PSM I)**  
 Scrum.org  
-
 https://www.scrum.org/certificates/1282609  
-
 Verification email: sebastiaan.crisan@profound.nl
 
 ---
@@ -115,8 +127,4 @@ Verification email: sebastiaan.crisan@profound.nl
 ## 📫 Connect
 
 📧 sebastiaancrisan@gmail.com  
-💼 [https://www.linkedin.com/in/sebastiaan-crisan ](https://www.linkedin.com/in/sebastiaan-crisan/) 
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=sebcrisan&color=blue)
+💼 https://www.linkedin.com/in/sebastiaan-crisan/

@@ -1,26 +1,44 @@
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Sebastiaan
+```{=html}
+<h1 align="center">
+```
+Hi 👋 I'm Sebastiaan
+```{=html}
 </h1>
-
-### Senior Software Engineer \| Cloud & Full‑Stack Engineer (AWS)
-
-I design and build **scalable cloud systems and modern web platforms**,
-focusing on **serverless architectures, system design and high‑impact
-engineering**.
-
--   ☁️ AWS cloud & serverless architecture
--   ⚛️ React + TypeScript specialist
--   🧠 Node.js backend systems
--   🐍 Python automation & backend
--   🚀 Founder of **Rentalist.nl**
--   🧩 Professional Scrum Master **(PSM I)**
+```
+```{=html}
+<p align="center">
+```
+Senior Software Engineer • Cloud Architect (AWS) • Full‑Stack Engineer
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+I build scalable cloud systems, serverless platforms, and modern web
+applications.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;AWS+Cloud+Architect;React+%2B+TypeScript+Engineer;Serverless+System+Designer&center=true&width=500&height=45">`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
 # 🧠 LeetCode
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges" />
+```{=html}
+<p align="center">
+```
+`<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
@@ -28,19 +46,21 @@ engineering**.
 
 ## Rentalist.nl
 
+`<img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120">`{=html}
+
 https://www.rentalist.nl
 
-Cloud-native SaaS platform that monitors rental websites and instantly
+Cloud‑native SaaS platform that monitors rental websites and instantly
 notifies users when new listings appear.
 
-**Highlights**
+### Highlights
 
--   Event-driven scraping and ingestion infrastructure
--   Real-time notifications based on user preferences
+-   Event‑driven scraping and ingestion infrastructure
+-   Real‑time notifications based on user preferences
 -   Serverless AWS architecture
 -   Automated CI/CD deployment pipelines
 
-**Tech**
+### Tech
 
 AWS Lambda\
 API Gateway\
@@ -109,9 +129,7 @@ Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcrisan&
 
 # 🏆 Certifications
 
-### Professional Scrum Master I (PSM I)
-
-Scrum.org\
+**Professional Scrum Master I (PSM I)**\
 https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments
 
 ------------------------------------------------------------------------
@@ -124,5 +142,5 @@ https://www.scrum.org/professional-scrum-certifications/professional-scrum-maste
 
 ------------------------------------------------------------------------
 
-⭐ I enjoy building **scalable cloud architectures, distributed systems
-and modern developer platforms.**
+⭐ I enjoy building scalable cloud architectures, distributed systems,
+and modern developer platforms.

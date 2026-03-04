@@ -18,9 +18,7 @@ I build scalable cloud systems, serverless platforms, and modern web application
 
 # 🧠 LeetCode
 
-<p align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges"/>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/GaisericDev)
 
 ---
 
@@ -87,14 +85,17 @@ TypeScript
 ![S3](https://img.shields.io/badge/AWS-S3-red)
 ![EC2](https://img.shields.io/badge/AWS-EC2-yellow)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue)
+![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-FF9900?logo=awsamplify&logoColor=white)
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS-Elastic%20Beanstalk-FF9900?logo=amazonaws&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS-Cognito-FF9900?logo=amazonaws&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebcrisan&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebcrisan&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcrisan&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcrisan&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
@@ -110,19 +111,22 @@ TypeScript
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 **Professional Scrum Master I (PSM I)**  
-https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments
+Scrum.org  
+
+https://www.scrum.org/certificates/1282609  
+
+Verification email: sebastiaan.crisan@profound.nl
 
 ---
 
 # 📫 Connect
 
 📧 sebastiaancrisan@gmail.com  
-💼 https://www.linkedin.com/in/sebastiaan-crisan  
-🐙 https://github.com/sebcrisan
+💼 [https://www.linkedin.com/in/sebastiaan-crisan ](https://www.linkedin.com/in/sebastiaan-crisan/) 
 
 ---
 
-⭐ I enjoy building scalable cloud architectures, distributed systems, and modern developer platforms.
+![Profile Views](https://komarev.com/ghpvc/?username=sebcrisan&color=blue)

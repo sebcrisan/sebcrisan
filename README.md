@@ -1,75 +1,56 @@
-```{=html}
 <h1 align="center">
-```
-Hi 👋 I'm Sebastiaan
-```{=html}
+  Hi 👋 I'm Sebastiaan
 </h1>
-```
-```{=html}
-<p align="center">
-```
-Senior Software Engineer • Cloud Architect (AWS) • Full‑Stack Engineer
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-I build scalable cloud systems, serverless platforms, and modern web
-applications.
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;AWS+Cloud+Architect;React+%2B+TypeScript+Engineer;Serverless+System+Designer&center=true&width=500&height=45">`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+Senior Software Engineer • Cloud Architect (AWS) • Full-Stack Engineer
+</p>
+
+<p align="center">
+I build scalable cloud systems, serverless platforms, and modern web applications.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;AWS+Cloud+Architect;React+%2B+TypeScript+Engineer;Serverless+System+Designer&center=true&width=500&height=45">
+</p>
+
+---
 
 # 🧠 LeetCode
 
-```{=html}
 <p align="center">
-```
-`<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges"/>`{=html}
-```{=html}
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 # 🚀 Featured Project
 
 ## Rentalist.nl
 
-`<img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120">`{=html}
+<img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120">
 
 https://www.rentalist.nl
 
-Cloud‑native SaaS platform that monitors rental websites and instantly
-notifies users when new listings appear.
+Cloud-native SaaS platform that monitors rental websites and instantly notifies users when new listings appear.
 
 ### Highlights
 
--   Event‑driven scraping and ingestion infrastructure
--   Real‑time notifications based on user preferences
--   Serverless AWS architecture
--   Automated CI/CD deployment pipelines
+- Event-driven scraping and ingestion infrastructure
+- Real-time notifications based on user preferences
+- Serverless AWS architecture
+- Automated CI/CD deployment pipelines
 
 ### Tech
 
-AWS Lambda\
-API Gateway\
-DynamoDB\
-React\
-Next.js\
-TypeScript
+AWS Lambda  
+API Gateway  
+DynamoDB  
+React  
+Next.js  
+TypeScript  
 
-------------------------------------------------------------------------
+---
 
 # ⚙️ Tech Stack
 
@@ -79,11 +60,15 @@ TypeScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
+---
+
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+
+---
 
 ## Backend
 
@@ -91,56 +76,53 @@ TypeScript
 ![REST API](https://img.shields.io/badge/API-REST-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
+---
+
 ## Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-orange) ![API
-Gateway](https://img.shields.io/badge/AWS-API_Gateway-orange)
+![Lambda](https://img.shields.io/badge/AWS-Lambda-orange)
+![API Gateway](https://img.shields.io/badge/AWS-API_Gateway-orange)
 ![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-blue)
 ![S3](https://img.shields.io/badge/AWS-S3-red)
 ![EC2](https://img.shields.io/badge/AWS-EC2-yellow)
 ![CI/CD](https://img.shields.io/badge/CI/CD-Automation-blue)
 
-------------------------------------------------------------------------
+---
 
 # 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=sebcrisan&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebcrisan&show_icons=true&theme=transparent)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcrisan&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcrisan&layout=compact&theme=transparent)
 
-------------------------------------------------------------------------
+---
 
 # 🔥 GitHub Streak
 
-![GitHub
-Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
 
-------------------------------------------------------------------------
+---
 
 # 📈 Contribution Graph
 
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcrisan&theme=github-compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcrisan&theme=github-compact)
 
-------------------------------------------------------------------------
+---
 
 # 🏆 Certifications
 
-**Professional Scrum Master I (PSM I)**\
+**Professional Scrum Master I (PSM I)**  
 https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments
 
-------------------------------------------------------------------------
+---
 
 # 📫 Connect
 
-📧 sebastiaancrisan@gmail.com\
-💼 https://www.linkedin.com/in/sebastiaan-crisan\
+📧 sebastiaancrisan@gmail.com  
+💼 https://www.linkedin.com/in/sebastiaan-crisan  
 🐙 https://github.com/sebcrisan
 
-------------------------------------------------------------------------
+---
 
-⭐ I enjoy building scalable cloud architectures, distributed systems,
-and modern developer platforms.
+⭐ I enjoy building scalable cloud architectures, distributed systems, and modern developer platforms.

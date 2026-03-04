@@ -14,14 +14,6 @@ I build scalable cloud systems, serverless platforms, and modern web application
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;AWS+Cloud+Architect;React+%2B+TypeScript+Engineer;Serverless+System+Designer&center=true&width=500&height=45">
 </p>
 
----
-
-## 🧠 LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
-
----
-
 # 🚀 Featured Project
 
 <img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120">
@@ -45,6 +37,12 @@ DynamoDB
 React  
 Next.js  
 TypeScript  
+
+---
+
+---
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
 
 ---
 

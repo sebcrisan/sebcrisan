@@ -18,7 +18,7 @@ I build scalable cloud systems, serverless platforms, and modern web application
 
 ## 🧠 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/GaisericDev)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
 
 ---
 

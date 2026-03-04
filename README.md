@@ -18,7 +18,7 @@ I build scalable cloud systems, serverless platforms, and modern web application
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcrisan&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Metrics](github-metrics.svg)
 
 ---
 

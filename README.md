@@ -16,29 +16,21 @@ I build scalable cloud systems, serverless platforms, and modern web application
 
 ---
 
-<p align="center">
-  <a href="https://leetcode.com/SebCrisan">
-    <img src="https://leetcard.jacoblin.cool/SebCrisan?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Metrics](github-metrics.svg)
 
 ---
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
+![Contribution Snake](https://raw.githubusercontent.com/sebcrisan/sebcrisan/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Streak
 
-![Contribution Snake](./github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
 
 ---
 
@@ -82,23 +74,17 @@ TypeScript
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
----
-
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
 
----
-
 ## Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-REST-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
----
 
 ## Cloud & DevOps
 
@@ -112,6 +98,12 @@ TypeScript
 ![AWS Amplify](https://img.shields.io/badge/AWS-Amplify-FF9900?logo=awsamplify&logoColor=white)
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS-Elastic%20Beanstalk-FF9900?logo=amazonaws&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/AWS-Cognito-FF9900?logo=amazonaws&logoColor=white)
+
+---
+
+## 🧠 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SebCrisan?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
 
 ---
 

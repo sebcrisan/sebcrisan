@@ -12,6 +12,11 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      # 1) Checkout the repo so .git exists
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2) Generate the snake SVG(s)
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,7 +25,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to main
+      # 3) Commit the generated files back to the repo
+      - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/*.svg"

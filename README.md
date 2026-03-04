@@ -16,15 +16,13 @@ I build scalable cloud systems, serverless platforms, and modern web application
 
 ---
 
-# 🧠 LeetCode
+## 🧠 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/GaisericDev)
 
 ---
 
 # 🚀 Featured Project
-
-## Rentalist.nl
 
 <img src="https://www.rentalist.nl/_next/image?url=%2Flogo-pink.webp&w=256&q=75" width="120">
 
@@ -91,7 +89,7 @@ TypeScript
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebcrisan&show_icons=true&theme=github_dark&hide_border=true)
 
@@ -99,13 +97,13 @@ TypeScript
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sebcrisan&theme=transparent)
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sebcrisan&theme=github-compact)
 
@@ -122,7 +120,7 @@ Verification email: sebastiaan.crisan@profound.nl
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
 📧 sebastiaancrisan@gmail.com  
 💼 [https://www.linkedin.com/in/sebastiaan-crisan ](https://www.linkedin.com/in/sebastiaan-crisan/) 

@@ -1,4 +1,7 @@
-# `<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">`{=html} Hi, I'm Sebastiaan
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Sebastiaan
+</h1>
 
 ### Senior Software Engineer \| Cloud & Full‑Stack Engineer (AWS)
 
@@ -17,7 +20,7 @@ engineering**.
 
 # 🧠 LeetCode
 
-`<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges" />`{=html}
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=GaisericDev&animated=true" alt="LeetCode Badges" />
 
 ------------------------------------------------------------------------
 

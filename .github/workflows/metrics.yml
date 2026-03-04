@@ -20,10 +20,9 @@ jobs:
           template: classic
           filename: github-metrics.svg
 
-          # Fetch repo list thoroughly
+          # Repo visibility
           base_indepth: yes
           repositories_batch: 50
           repositories_forks: yes
           repositories_affiliations: owner,collaborator,organization_member
-
           base: header, community, repositories, metadata

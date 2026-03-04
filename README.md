@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-Senior Software Engineer • Cloud Architect (AWS) • Full-Stack Engineer
-</p>
-
-<p align="center">
 I build scalable cloud systems, serverless platforms, and modern web applications.
 </p>
 

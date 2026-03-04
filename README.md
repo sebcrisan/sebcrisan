@@ -42,7 +42,7 @@ TypeScript
 
 ---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/GaisericDev?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SebCrisan?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/SebCrisan)
 
 ---
 
@@ -89,9 +89,7 @@ TypeScript
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebcrisan&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebcrisan&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Metrics](github-metrics.svg)
 
 ---
 
